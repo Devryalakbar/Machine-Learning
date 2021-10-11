@@ -1,2 +1,2 @@
-# Introduction-Machine-Learning
+# Machine-Learning
 Tugas Minggu Ke 1
